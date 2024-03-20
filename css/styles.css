@@ -417,7 +417,7 @@ ol {
 
 .footer-container {
   display: flex;
-  align-items: bas;
+  align-items: baseline;
 }
 
 .footer {
